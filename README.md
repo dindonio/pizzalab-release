@@ -9,9 +9,18 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/platform-iOS%2018%2B-blue?logo=apple" alt="Platform" />
+  <img src="https://img.shields.io/badge/platform-iOS%2018%2B-007AFF?logo=apple&logoColor=white" alt="Platform" />
+  <img src="https://img.shields.io/badge/swift-6.0-F05138?logo=swift&logoColor=white" alt="Swift 6" />
+  <img src="https://img.shields.io/badge/SwiftUI-blue?logo=swift&logoColor=white" alt="SwiftUI" />
+  <img src="https://img.shields.io/badge/SwiftData-34C759" alt="SwiftData" />
+  <img src="https://img.shields.io/badge/Xcode-16%2B-147EFB?logo=xcode&logoColor=white" alt="Xcode" />
   <img src="https://img.shields.io/badge/price-free-brightgreen" alt="Free" />
+  <img src="https://img.shields.io/badge/offline-100%25-orange" alt="Offline" />
   <img src="https://img.shields.io/badge/language-italiano-green" alt="Italiano" />
+  <img src="https://img.shields.io/badge/privacy-no%20data%20collected-blueviolet" alt="Privacy" />
+  <img src="https://img.shields.io/badge/AVPN-2024-red" alt="AVPN" />
+  <img src="https://img.shields.io/badge/APITER-disciplinare-red" alt="APITER" />
+  <img src="https://img.shields.io/badge/version-1.1.0-lightgrey" alt="Version" />
 </p>
 
 ---
