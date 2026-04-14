@@ -23,6 +23,12 @@
   <img src="https://img.shields.io/badge/version-1.2.0-lightgrey" alt="Version" />
 </p>
 
+<p align="center">
+  <a href="https://apps.apple.com/us/app/pizzalab-calcolo-impasti/id6762013087">
+    <img src="https://tools.applemediaservices.com/api/badges/download-on-the-app-store/black/it-it" alt="Scarica su App Store" height="50" />
+  </a>
+</p>
+
 ---
 
 ## Descrizione
