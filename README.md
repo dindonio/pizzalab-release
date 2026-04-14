@@ -20,7 +20,7 @@
   <img src="https://img.shields.io/badge/privacy-no%20data%20collected-blueviolet" alt="Privacy" />
   <img src="https://img.shields.io/badge/AVPN-2024-red" alt="AVPN" />
   <img src="https://img.shields.io/badge/APITER-disciplinare-red" alt="APITER" />
-  <img src="https://img.shields.io/badge/version-1.1.0-lightgrey" alt="Version" />
+  <img src="https://img.shields.io/badge/version-1.2.0-lightgrey" alt="Version" />
 </p>
 
 ---
@@ -52,6 +52,8 @@ I parametri sono allineati ai disciplinari ufficiali **AVPN** (Associazione Vera
 - Indicatori di conformita' ai disciplinari
 - Supporto unita' metriche e imperiali
 - Modalita' chiara e scura
+- Haptic feedback sulle selezioni
+- Conferma prima di resettare il calcolatore
 
 ## Contatti
 
