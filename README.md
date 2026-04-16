@@ -20,7 +20,7 @@
   <img src="https://img.shields.io/badge/privacy-no%20data%20collected-blueviolet" alt="Privacy" />
   <img src="https://img.shields.io/badge/AVPN-2024-red" alt="AVPN" />
   <img src="https://img.shields.io/badge/APITER-disciplinare-red" alt="APITER" />
-  <img src="https://img.shields.io/badge/version-1.2.0-lightgrey" alt="Version" />
+  <img src="https://img.shields.io/badge/version-1.3.0-lightgrey" alt="Version" />
 </p>
 
 <p align="center">
@@ -37,14 +37,18 @@ PizzaLab e' un'app iOS gratuita per il **calcolo scientifico degli ingredienti**
 
 I parametri sono allineati ai disciplinari ufficiali **AVPN** (Associazione Verace Pizza Napoletana) e **APITER** (Associazione Pizza in Teglia e Romana).
 
-## Tipi di Pizza
+## Ricette
 
+### Pizze
 - **Pizza Napoletana Verace** — Disciplinare AVPN 2024
 - **Pizza Contemporanea** — Lunga maturazione
 - **Pizza in Teglia** — Disciplinare APITER
 - **Pizza Pala Romana** — Disciplinare APITER
 - **Schiacciata Toscana** — Ricca di olio EVO
 - **Pizza Fritta Napoletana** — Disciplinare AVPN
+
+### Altre Ricette Tradizionali
+- **Casatiello Napoletano** — Calcolo automatico in base alle dimensioni del ruoto, procedimento completo in 7 fasi
 
 ## Funzionalita'
 
