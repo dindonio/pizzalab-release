@@ -20,7 +20,7 @@
   <img src="https://img.shields.io/badge/privacy-no%20data%20collected-blueviolet" alt="Privacy" />
   <img src="https://img.shields.io/badge/AVPN-2024-red" alt="AVPN" />
   <img src="https://img.shields.io/badge/APITER-disciplinare-red" alt="APITER" />
-  <img src="https://img.shields.io/badge/version-1.3.1--b5-lightgrey" alt="Version" />
+  <img src="https://img.shields.io/badge/version-1.4.0-lightgrey" alt="Version" />
 </p>
 
 <p align="center">
@@ -57,6 +57,9 @@ I parametri sono allineati ai disciplinari ufficiali **AVPN** (Associazione Vera
 - Selezione fermentazione: solo temperatura ambiente o frigo + ambiente
 - Selezione tipo impastatrice con delta temperatura automatico
 - Procedimento dettagliato con checkbox interattive
+- **Timer guidati per la lievitazione** (Live Activity + Dynamic Island su iPhone 14 Pro+)
+- **Notifiche locali** con pre-avviso 10 min prima della scadenza di ogni fase
+- **Guida farine** e **Glossario termini** in Impostazioni
 - Salvataggio ricette personalizzate
 - Esportazione PDF professionale
 - Indicatori di conformita' ai disciplinari
