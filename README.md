@@ -20,7 +20,7 @@
   <img src="https://img.shields.io/badge/privacy-no%20data%20collected-blueviolet" alt="Privacy" />
   <img src="https://img.shields.io/badge/AVPN-2024-red" alt="AVPN" />
   <img src="https://img.shields.io/badge/APITER-disciplinare-red" alt="APITER" />
-  <img src="https://img.shields.io/badge/version-1.4.0-lightgrey" alt="Version" />
+  <img src="https://img.shields.io/badge/version-1.4.1-lightgrey" alt="Version" />
 </p>
 
 <p align="center">
