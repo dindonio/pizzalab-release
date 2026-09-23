@@ -20,7 +20,7 @@
   <img src="https://img.shields.io/badge/privacy-no%20data%20collected-blueviolet" alt="Privacy" />
   <img src="https://img.shields.io/badge/AVPN-2024-red" alt="AVPN" />
   <img src="https://img.shields.io/badge/APITER-disciplinare-red" alt="APITER" />
-  <img src="https://img.shields.io/badge/version-1.4.1-lightgrey" alt="Version" />
+  <img src="https://img.shields.io/badge/version-2.0.0-lightgrey" alt="Version" />
 </p>
 
 <p align="center">
@@ -52,21 +52,39 @@ I parametri sono allineati ai disciplinari ufficiali **AVPN** (Associazione Vera
 
 ## Funzionalita'
 
+### Calcolo
 - Wizard guidato a 4 step
-- Metodo diretto e indiretto (biga)
+- Metodo diretto, indiretto con **biga** e indiretto con **poolish** (lievito secondo la tabella Giorilli)
 - Selezione fermentazione: solo temperatura ambiente o frigo + ambiente
 - Selezione tipo impastatrice con delta temperatura automatico
-- Procedimento dettagliato con checkbox interattive
-- **Timer guidati per la lievitazione** (Live Activity + Dynamic Island su iPhone 14 Pro+)
-- **Notifiche locali** con pre-avviso 10 min prima della scadenza di ogni fase
-- **Guida farine** e **Glossario termini** in Impostazioni
-- Salvataggio ricette personalizzate
-- Esportazione PDF professionale
 - Indicatori di conformita' ai disciplinari
 - Supporto unita' metriche e imperiali
-- Modalita' chiara e scura
-- Haptic feedback sulle selezioni
-- Conferma prima di resettare il calcolatore
+
+### Timer di lievitazione
+- **Timer a conferma**: a fine fase il timer si ferma e attende la tua conferma prima di avviare la fase successiva; promemoria se non confermi
+- **Live Activity interattiva** su Lock Screen e Dynamic Island: Pausa, Riprendi e "Avvia prossima fase" senza aprire l'app
+- **Sveglia a fine fase (iOS 26.1+)**: con AlarmKit suona come una sveglia di sistema anche in silenzioso o Full Immersion
+- **Comandi Siri e Comandi Rapidi**: "Avvia la prossima fase in PizzaLab", "Metti in pausa il timer di PizzaLab", "Quanto manca in PizzaLab", "Annulla il timer di PizzaLab"
+- Notifiche locali con pre-avviso 10 minuti prima della scadenza di ogni fase
+
+### Pianifica l'infornata
+- Scegli data e ora in cui vuoi infornare: l'app calcola a ritroso quando impastare, mettere in frigo e stagliare, tenendo conto di riposi e pieghe
+- Promemoria 15 minuti prima e all'ora di iniziare
+
+### Procedimento e ricette
+- Procedimento dettagliato con checkbox interattive; lo schermo resta acceso mentre lo segui
+- Salvataggio ricette personalizzate
+- Esportazione PDF professionale e condivisione come testo
+- **Guida farine** e **Glossario termini** in Impostazioni
+
+### Lingue e accessibilita'
+- Italiano e **inglese** (segue la lingua di iOS): i termini tecnici restano in italiano con la spiegazione accanto, es. "puntata (bulk fermentation)"
+- **VoiceOver**, Dynamic Type e Riduci movimento, verificati con l'audit di accessibilita' di Apple
+- Interfaccia Liquid Glass su iOS 26
+- Modalita' chiara e scura, haptic feedback
+
+### Sempre
+- 100% offline: nessun account, nessuna pubblicita', nessuna raccolta dati
 
 ## Contatti
 
